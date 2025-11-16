@@ -3,7 +3,7 @@
 ## Overview
 This project provides a comprehensive analysis of dengue cases in Dhaka, Bangladesh. The dashboard highlights the most affected areas, patient demographics, and outcomes, helping users quickly understand the trends and impact of dengue.
 
-## Methodology
+### Methodology
 - **Charts:** Visual representation of patient data for easier interpretation.
 - **Pivot Tables:** Aggregation and summarization of dengue cases across different dimensions.
 - **KPI Metrics:** Key Performance Indicators to provide at-a-glance insights, such as:
