@@ -19,5 +19,11 @@ This project provides a comprehensive analysis of dengue cases in Dhaka, Banglad
 - **Patient outcome summary by age group** to understand which demographics are most affected
 - **KPI overview** for quick insights
 
+## Key Performance Indicators (KPIs)
+The following screenshot summarizes the key metrics from the analysis:
+
+![KPI Screenshot](images/kpi.png)
+
+
 ### Objective
 The aim of this dashboard is to provide actionable insights to health authorities, researchers, and the public, aiding in better understanding and management of dengue outbreaks in Dhaka.
