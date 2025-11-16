@@ -14,9 +14,9 @@ This project provides a comprehensive analysis of dengue cases in Dhaka, Banglad
 
 ## Analysis Highlights
 - Identification of **highest affected areas** in Dhaka
-- **Age group-wise** distribution of dengue patients
+- **Age group-wise distribution of dengue patients** 38–52 age group has the highest number of affected patients
 - **Gender-wise** and **house/area type-wise** case distribution
-- **Patient outcome analysis** (recovered, ongoing, critical, etc.)
+- **Patient outcome summary by age group** to understand which demographics are most affected
 - **KPI overview** for quick insights
 
 ## Objective
