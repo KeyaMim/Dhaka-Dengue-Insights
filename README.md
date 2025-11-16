@@ -22,7 +22,7 @@ This project provides a comprehensive analysis of dengue cases in Dhaka, Banglad
 ## Key Performance Indicators (KPIs)
 The following screenshot summarizes the key metrics from the analysis:
 
-![KPI Screenshot](https://raw.githubusercontent.com/KeyaMim/Dhaka-Dengue-Insights/main/Screenshot_1.png)
+![KPI Screenshot](https://raw.githubusercontent.com/KeyaMim/Dhaka-Dengue-Insights/main/Screenshot_2.png)
 
 
 
