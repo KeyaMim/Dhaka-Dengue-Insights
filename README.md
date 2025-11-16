@@ -24,7 +24,8 @@ The following screenshot summarizes the key metrics from the analysis:
 
 ![KPI Screenshot](https://raw.githubusercontent.com/KeyaMim/Dhaka-Dengue-Insights/main/Screenshot_2.png)
 
-
+## Dashboard
+![KPI Screenshot](https://raw.githubusercontent.com/KeyaMim/Dhaka-Dengue-Insights/main/Screenshot_1.png)
 
 ### Objective
 The aim of this dashboard is to provide actionable insights to health authorities, researchers, and the public, aiding in better understanding and management of dengue outbreaks in Dhaka.
